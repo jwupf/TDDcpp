@@ -14,7 +14,8 @@
 		"michelemelluso.gitignore",
 		"eamodio.gitlens",
 		"hbenl.vscode-test-explorer",
-		"matepek.vscode-catch2-test-adapter"
+		"matepek.vscode-catch2-test-adapter",
+		"github.vscode-pull-request-github"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [

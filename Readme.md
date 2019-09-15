@@ -12,8 +12,8 @@
 I used vscode to set this up. For me it works perfect if the VisualStudio 2019 Compiler is used and I get some include warnings from the editor if clang is used. This should also work with other editors/ide's that are supported by cmake. How to get a Eclipse/VsStudio project from my CMake ... I do not know yet, but I know it is possible.
 
 ### vscode short cuts
-To run tests(and compile) in vscode: STRG+F7
-To run build in vscode: F7
+* To run tests(and compile) in vscode: STRG+F7
+* To run build in vscode: F7
 
 ### git specifics
 This project uses git submodules, please read:
