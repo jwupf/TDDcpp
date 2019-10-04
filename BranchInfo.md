@@ -1,4 +1,3 @@
 # Branch specific info
 
-This branch exists to work on:
-<https://osherove.com/tdd-kata-1>
+This branch exists as a general template for TDD style projects.
