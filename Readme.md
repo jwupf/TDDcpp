@@ -6,6 +6,7 @@
 * create a new branch
     * git checkout -b MyTraining
 * start doing TDD ...
+    * use ExampleTests.cpp to write your first test
 
 ## Branch specific
 
@@ -14,6 +15,8 @@ Read/Adapt BranchInfo.md
 ## Nice to know
 
 I used vscode to set this up. For me it works perfect if the VisualStudio 2019 Compiler is used and I get some include warnings from the editor if clang is used. This should also work with other editors/ide's that are supported by cmake. How to get a Eclipse/VsStudio project from my CMake ... I do not know yet, but I know it is possible.
+
+I can also confirm that this runs on a chromebook inside a linux subsystem. The CMake version had to be lowered to 3.13, from 3.15. 
 
 ### vscode short cuts
 
