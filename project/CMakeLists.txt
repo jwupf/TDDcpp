@@ -1,3 +1,3 @@
-add_subdirectory(adder)
+add_subdirectory(module)
 
 add_subdirectory(test)
