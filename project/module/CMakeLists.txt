@@ -1,3 +1,3 @@
-add_library(adder Example.hpp Example.cpp)
+add_library(module Example.hpp Example.cpp)
 
-target_include_directories(adder PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}")
+target_include_directories(module PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}")
