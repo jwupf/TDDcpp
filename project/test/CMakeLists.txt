@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.15)
 
-set(This ExampleTest)
+set(This ServerTest)
 
 set(Sources
-    ExampleTests.cpp
+    ServerTests.cpp
 )
 
 
@@ -11,7 +11,7 @@ add_executable(${This} ${Sources})
 
 target_link_libraries(${This} PUBLIC
     gtest_main
-    adder
+    mqtt_broker
 )
 
 add_test(

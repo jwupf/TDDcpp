@@ -2,5 +2,6 @@
 # shared .vscode files will have to be excluded by adding them after the exclusion
 # --> the line has to start with a '!'
 .vscode
+.vs
 external/googletest_2
 build

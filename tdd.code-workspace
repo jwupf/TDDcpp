@@ -4,13 +4,14 @@
 			"path": "."
 		}
 	],
-	"settings": {},
+	"settings": {
+	},
 	"extensions": {
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
 		"ms-vscode.cpptools",
 		"twxs.cmake",
-		"vector-of-bool.cmake-tools",
+		"ms-vscode.cmake-tools",
 		"michelemelluso.gitignore",
 		"eamodio.gitlens",
 		"hbenl.vscode-test-explorer",
